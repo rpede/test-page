@@ -1,3 +1,7 @@
+---
+title: "Testing Pages with DartPad"
+js: [{url: 'https://dartpad.dev/inject_embed.dart.js', defer: true}]
+---
 # Testing GitHub Pages
 
 These are not the droids you are using for.
