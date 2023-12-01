@@ -1,8 +1,7 @@
 ---
 title: "Testing Pages with DartPad"
-description: Learn about and practice writing asynchronous code in DartPad!
-js: [{url: 'https://dartpad.dev/inject_embed.dart.js', defer: true}]
 ---
+<script type="text/javascript" src="https://dartpad.dev/inject_embed.dart.js" defer></script>
 
 These are not the droids you are using for.
 
