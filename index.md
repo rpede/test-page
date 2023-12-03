@@ -11,6 +11,6 @@ title: "Testing Pages with DartPad"
 
 These are not the droids you are using for.
 
-```run-dartpad:theme-light:mode-flutter:run-true
+```run-dartpad:theme-dark:mode-dart:run-true
 main() => print("Hello, World!");
 ```
