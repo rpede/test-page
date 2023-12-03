@@ -5,9 +5,15 @@ description: >-
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+source: "./"
 incremental: false
 
 # GitHub pages theme
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+theme: jekyll-theme-cayman
+
+# Disable source link in header
+github:
+  is_project_page: false
